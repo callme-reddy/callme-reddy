@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently working on Some AI Projects<br>I know Kaggle<br>I am Skilled in Python, C++, Java<br>I am Fluent in English, Telugu(India), Hindi(India)
+Computer Science graduate (B.Tech, LPU 2026) with hands-on experience in Python, C++, Java, and JavaScript. Built 
+and deployed end-to-end software systems spanning computer vision, systems programming, and deep learning. 
+Comfortable with the full development lifecycle — from requirements analysis and design to coding, testing, and 
+documentation. Strong problem-solver with a track record of delivering functional, optimised software under real project 
+constraints. 
 
 
 ## 🌐 Socials:
